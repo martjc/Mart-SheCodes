@@ -1,0 +1,33 @@
+body {
+    background-color: #380a66 !important;
+  }
+  
+  .container {
+    font-family: "Gloock", serif;
+  }
+  
+  form {
+    padding: 0px 25px;
+  }
+  
+  #city {
+    font-size: 35px;
+  }
+  
+  .date {
+    display: inline-block;
+    font-size: 17px;
+    text-align: left;
+    padding: 25px;
+    left: 2.5%;
+    color: #380a66 !important;
+  }
+  
+  #today {
+    font-size: 25px;
+  }
+  
+  #temperature {
+    font-size: 30px;
+  }
+  
